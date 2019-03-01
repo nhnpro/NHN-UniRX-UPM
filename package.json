@@ -1,0 +1,14 @@
+{
+	"name": "com.namnh.unirx",
+	"version": "6.2.2",
+	"displayName": "NHN-UniRx",
+	"unity": "2018.1",
+	"description": "UniRx For Unity",
+	"keywords": ["unirx"],
+	"category": "Util",
+	"author": {
+		"name": "NEUECC"
+	},
+	"dependencies": {
+	}
+}
