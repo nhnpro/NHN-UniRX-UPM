@@ -12,7 +12,7 @@
    {   
    
  		...
- 		**"com.namnh.unirx": "https://github.com/nhnpro/NHN-UniRX-UPM.git#6.2.32",**
+ 		**"com.namnh.unirx": "https://github.com/nhnpro/NHN-UniRX-UPM.git#6.2.3",**
  		...
  		
    }
